@@ -1,4 +1,4 @@
-# PowerBI_DataAnalyst_survey
+# PowerBI DataAnalyst Survey Report
 
 ## PowerBi report created for the purpose of learning and showcasing my skills in visualization. 
 
