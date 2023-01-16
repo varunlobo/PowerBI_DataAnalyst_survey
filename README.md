@@ -6,11 +6,12 @@ I am using a public dataset from a survey taken by 630 people from across 5 coun
 The .pbix file is saved in the repository. If you don't have access to PowerBI apps or desktop, you can also view the pdf format of this report. 
 
 ### Findings
-<li> Almost no female participants use java.
 <li> Average age of data participants participated in the survey is 29.
 <li> Data Scientists have the highest average salary at around 94K USD.
 <li> Work life balance for most is around the mid mark of 5 (for a 1-10 rating).
 <li> Majority of survey takers are from the US.
+<li> Almost no female participants use java.
+
 
 
 
